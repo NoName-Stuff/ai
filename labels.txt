@@ -1,0 +1,7 @@
+0 Oak Tree
+1 Tea Tree
+2 Botrytis cinerea
+3 Leaf Spot
+4 Powdery Mildew
+5 Scooty Mould
+6 Anthranose
